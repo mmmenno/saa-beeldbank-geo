@@ -10,8 +10,8 @@ Om van een geografische naam naar geografische entiteiten (een Adamlink adres of
 
 - Betreft de straatnaam inderdaad een straat? Wat is dan de Adamlink URI of het BAG openbare ruimte id?
 - Betreft de straatnaam een andere geografische entiteit? Is daar een Wikidata item bij te vinden?
-- Is in `huisnummer_van` en `huisnummer_tot` het begin en einde van een reeks vermeld? Hoe bepalen we dan de tussenliggende nummers in die reeks.
-- Aan welk adres of pand zou elk huisnummer in die reeks gekoppeld moeten worden? De BAG is natuurlijk een optie, maar omdat adressen verdwijnen en panden hernummerd kunnen worden zijn [historische adressen](https://adamlink.nl/geo/addresses/start/) zoals die van verschillende historische kaarten zijn overgenomen vaak geschikter. De datering van de afbeelding speelt hierbij natuurlijk een grote rol.
+- Is in `huisnummer_van` en `huisnummer_tot` het begin en einde van een reeks vermeld? Hoe bepalen we dan de tussenliggende nummers in die reeks?
+- Aan welk adres of pand zou elk huisnummer in die reeks gekoppeld moeten worden? De BAG is natuurlijk een optie, maar omdat adressen verdwijnen en panden hernummerd kunnen worden zijn [historische adressen](https://adamlink.nl/geo/addresses/start/) vaak geschikter. De datering van de afbeelding is hierbij natuurlijk van belang.
 
 ## Aanpak reeksen
 
@@ -86,4 +86,10 @@ _1) als datering van de afbeelding is het eerste jaartal in het veld datering ge
 _2) gekozen is steeds voor het adres dat het dichtst bij de datering van de afbeelding lag_  
 _3) een koppeling met een BAG pand is alleen opgenomen als de datering van de afbeelding na het bouwjaar valt_
 
+![panden](panden.jpg)
+
+_Dit kaartje toont (centroiden van) bagpanden (rood) en historische adressen daaronder (bruin), groter weergegeven naarmate vaker afgebeeld. De Waterloopleinbuurt, de Weesperstraat en de oostzijde van het Rokin laten het belang van de historische adressen zien._
+
 ## Bestanden
+
+to do
