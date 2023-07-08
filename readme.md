@@ -90,6 +90,40 @@ _3) een koppeling met een BAG pand is alleen opgenomen als de datering van de af
 
 _Dit kaartje toont (centroiden van) bagpanden (rood) en historische adressen daaronder (bruin), groter weergegeven naarmate vaker afgebeeld. De Waterloopleinbuurt, de Weesperstraat en de oostzijde van het Rokin laten het belang van de historische adressen zien._
 
-## Bestanden
+Mocht je je afvragen waarom aan BAGpanden is gekoppeld en niet aan BAGadressen: 
 
-to do
+- De historische 'adressen' zijn vaak meer pand dan een adres zoals de BAG dat definieert. Ze zijn overgenomen van 2D kaarten waarop geen verschillende adressen voor verschillende verdiepingen zijn opgenomen, zoals dat in de BAG wel het geval is.
+- Ook in de beeldbank metadata zijn alleen reeksen als 'Haarlemmerstraat 6 t/m 8' opgenomen. Zo'n afbeelding verbinden met alle BAGadressen voor de verschillende verdiepingen in die panden zou valse precisie geven - misschien is alleen een winkelpui op de afbeelding weergegeven.
+- De aard van de beeldbank is dat het vaak aanzichten van panden betreft; bij andere bronnen zou je een andere keuze kunnen maken.
+- Er kunnen ook gewoon heel veel adressen in een pand zijn; elke foto van een flat of bijvoorbeeld het CS zou dan tientallen of zelfs honderden links opleveren.
+
+
+![centraal station](station.jpg)
+
+_Het station is in de BAG één pand met 114 bijbehorende adressen_
+
+
+## De aantallen
+
+Hieronder het aantal keer dat een afbeelding met een specifieke geografische entiteit is verbonden:
+
+- **43.833** koppelingen met Wikidata
+- **346.593** koppelingen met BAGpanden
+- **754.574** koppelingen met historische adressen
+- **272.968** koppelingen van niet aan adamlink adres verbonden afbeeldingen met adamlink straten
+- **206.224** koppelingen van ook aan adamlink adres verbonden afbeeldingen met adamlink straten
+
+
+
+## Hoe nu verder?
+
+In het tabelletje hierboven is te zien dat steeds zo'n tien procent van de gedateerde afbeeldingen niet aan een historisch adres of BAGpand gekoppeld kon worden. Alleen bij de oudere afbeeldingen, van voor 1876, loopt dat iets verder op. Naar de oorzaken heb ik geen diepgravend onderzoek gedaan, maar ik ben wel een paar dingen tegengekomen:
+
+- Niet elke afbeelding is even goed gedateerd. Zo is [een afbeelding van het in 1897 gesloopte Koninklijk Postkantoor](https://archief.amsterdam/beeldbank/detail/70012090-8527-11e4-b8cb-c3e8d678fdba) gedateerd als 1953-1995 (omdat van de oorspronkelijke foto in die periode een reproductie is gemaakt, vermoedelijk).
+- Een batch van 15.000 afbeeldingen zonder datering is helemaal buiten beschouwing gelaten, om vals positieven te vermijden.
+- Zo'n 450 afbeeldingen zijn nog niet met een adamlink straat verbonden ('Gein' bestaat niet als straat, 'CuraÃ§aostraat' had een probleem met encoding, 'Notweg' is ambigu), een vereiste om tot een adres te komen.
+- De referentiedata laat het soms ook afweten. Vooral tussen 1945 en het begin van de BAG zit een gat van zeventig jaar, waarin panden soms zowel gebouwd als verdwenenen zijn; dit gat valt bovendien samen met de periode waarin veel gefotografeerd werd.
+
+Veel van deze afbeeldingen (vooal de verkeerd- of ongedateerde) zouden alsnog gekoppeld kunnen worden - handmatig, in crowdsourceprojecten of zelfs geautomatiseerd (maar dan wel misschien met een controle achteraf).
+
+Ook de referentiedata kan beter. Veel in 'het gat' gevallen adressen zijn terug te vinden op de Publieke Werken kaartbladen uit de jaren '70 en '80. Samengevoegd en beschikbaar gemaakt als tiles zijn deze kaarten bekend als [1985 - Dienst Openbare Werken](https://tiles.amsterdamtimemachine.nl/). Binnen dit project heb ik gekeken met welke werkwijze die 1985 adressen alsnog gegeorefereerd en beschikbaar gemaakt kunnen worden via [adamlink](https://adamlink.nl/geo/addresses/start/). De uitkomsten en de eerste resultaten daarvan zijn [elders in deze repository](1985/readme.md) te vinden.
