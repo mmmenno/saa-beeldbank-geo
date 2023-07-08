@@ -1,4 +1,4 @@
-# Beeldbank geocoderen
+# Het geocoderen van de SAA beeldbank
 
 De [beeldbank](https://archief.amsterdam/beeldbank/) van het Stadsarchief Amsterdam bevat meer dan 450.000 afbeeldingen. Daarvan zijn er 381.827 met één of meer geografische namen verbonden. Die geografische namen kunnen (in de dump die ik kreeg althans) drie velden bevatten: 
 
@@ -127,3 +127,7 @@ In het tabelletje hierboven is te zien dat steeds zo'n tien procent van de gedat
 Veel van deze afbeeldingen (vooal de verkeerd- of ongedateerde) zouden alsnog gekoppeld kunnen worden - handmatig, in crowdsourceprojecten of zelfs geautomatiseerd (maar dan wel misschien met een controle achteraf).
 
 Ook de referentiedata kan beter. Veel in 'het gat' gevallen adressen zijn terug te vinden op de Publieke Werken kaartbladen uit de jaren '70 en '80. Samengevoegd en beschikbaar gemaakt als tiles zijn deze kaarten bekend als [1985 - Dienst Openbare Werken](https://tiles.amsterdamtimemachine.nl/). Binnen dit project heb ik gekeken met welke werkwijze die 1985 adressen alsnog gegeorefereerd en beschikbaar gemaakt kunnen worden via [adamlink](https://adamlink.nl/geo/addresses/start/). De uitkomsten en de eerste resultaten daarvan zijn [elders in deze repository](1985/readme.md) te vinden.
+
+![jan tooropstraat](1985/tooropstraat.jpg)
+
+_In geel de BAGpanden met een bouwjaar voor 1985, de vier rijtjes daartussen zijn na 1945 gebouwd en voor 2009 weer afgebroken_
