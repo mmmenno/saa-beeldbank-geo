@@ -59,6 +59,7 @@ _Het August Allebéplein_
 
 ## Haken en ogen
 
+- De kaart is natuurlijk niet precies van 1985, maar gemaakt in een periode die meerdere jaren bestrijkt. Er zal best een pandje doorheen glippen hier en daar.
 - Hernummeringen van bestaande panden vind je op deze manier niet.
 
 Je kan zo wel een set maken die je later kunt aanvullen.
