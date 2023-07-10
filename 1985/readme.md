@@ -36,9 +36,9 @@ De 1943 adressen die in 1985 nog steeds op dezelfde plaats lagen kon ik kopiëre
 
 ## Hoeveelheid werk
 
-Het is nog steeds lastig inschatten hoeveel werk het is om de gaten in de hele stad zo in te tekenen, maar het kost natuurlijk maar een fractie van de tijd die nodig zou zijn om elk adres te prikken. Met de Baarsjes, de Kinkerbuurt, Da Costabuurt, Overtoomse Veld en Slotervaart Noord ben ik ongeveer zes uur bezig geweest.
+Het is nog steeds lastig inschatten hoeveel werk het is om de gaten in de hele stad zo in te tekenen, maar het kost natuurlijk maar een fractie van de tijd die nodig zou zijn om elk adres te prikken. Met de Baarsjes, de Kinkerbuurt, Da Costabuurt, Overtoomse Veld en Slotervaart Noord ben ik een uur of vier bezig geweest.
 
-Als je weet dat Amsterdam ongeveer 100 wijken telt en ik er nu dus 5 gedaan heb, kan je de rekensom `6 uur * 20 = 120 uur` maken, maar erg exact is dat niet. De ene wijk is de andere niet.
+Als je weet dat Amsterdam ongeveer 100 wijken telt en ik er nu dus 5 gedaan heb, kan je de rekensom `4 uur * 20 = 80 uur` maken, maar dat blijft nattevingerwerk. De ene wijk is de andere niet.
 
 ![bk](baarsjes-kinker.jpg)
 _De Baarsjes, de Kinkerbuurt en de Da Costabuurt_
