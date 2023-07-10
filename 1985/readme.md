@@ -41,12 +41,12 @@ Het is nog steeds lastig inschatten hoeveel werk het is om de gaten in de hele s
 Als je weet dat Amsterdam ongeveer 100 wijken telt en ik er nu dus 5 gedaan heb, kan je de rekensom `4 uur * 20 = 80 uur` maken, maar dat blijft nattevingerwerk. De ene wijk is de andere niet.
 
 ![bk](baarsjes-kinker.jpg)
-_De Baarsjes, de Kinkerbuurt en de Da Costabuurt_
+_De Baarsjes, de Kinkerbuurt en de Da Costabuurt. De overgrote meerderheid betreft locatiepunten die ook in 1943 al bestonden._
 
 
 
 ![verder west](west.jpg)
-_In de wijk Overtoomse Veld is veel gewijzigd, in Slotervaart Noord weinig._
+_Wijken met 'nieuwe' locatiepunten. In Overtoomse Veld is veel gewijzigd, in Slotervaart Noord weinig._
 
 De resultaten die je op de afbeeldingen ziet staan hier trouwens ook als [geojson bestand](1985-wgs.geojson).
 
@@ -62,4 +62,4 @@ _Het August Allebéplein_
 - De kaart is natuurlijk niet precies van 1985, maar gemaakt in een periode die meerdere jaren bestrijkt. Er zal best een pandje doorheen glippen hier en daar.
 - Hernummeringen van bestaande panden vind je op deze manier niet.
 
-Je kan zo wel een set maken die je later kunt aanvullen.
+Kom je dergelijke gevallen tegen, dan ligt er straks wel een 1985 dataset waar je relatief eenvoudig adressen aan toe kunt voegen.
